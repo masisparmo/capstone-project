@@ -17,7 +17,7 @@ Link Dataset yang digunakan dalam analisis ini adalah data historis kejadian ban
 
 Data ini bersumber dari portal data publik Badan Nasional Penanggulangan Bencana (BNPB). Tautan ke Dataset: [https://dibi.bnpb.go.id/superset/dashboard/2/](https://dibi.bnpb.go.id/superset/dashboard/2/) 
 
-Notebook Analisis: \[Ganti dengan tautan ke file .ipynb di repositori GitHub Anda\]
+Notebook Analisis: https://github.com/masisparmo/capstone-project/blob/main/Analisa_Tren_Banjir_Jakarta_dengan_Python_dan_AI.ipynb 
 
 **Insight & Findings**
 
