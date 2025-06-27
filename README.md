@@ -9,7 +9,8 @@ Data Classification and Summarization Using IBM Granite
 
 **Project Overview**
 
-Banjir merupakan salah satu bencana hidrometeorologi yang secara konsisten melanda DKI Jakarta hampir setiap tahun dan telah menjadi isu krusial yang berdampak luas terhadap berbagai sektor kehidupan. Proyek ini bertujuan untuk menganalisis data historis kejadian banjir di DKI Jakarta dari periode 2008 hingga 2025 untuk mengidentifikasi pola dan tren utama bencana banjir (kapan dan di mana), menyajikan wawasan (insight) yang mendalam, dan memberikan rekomendasi strategis yang konkret dan bisa ditindaklanjuti (actionable) kepada Pemerintah Provinsi DKI Jakarta. Pendekatan proyek ini adalah analisis kuantitatif menggunakan Python (Pandas, Matplotlib, Seaborn) dan diperkaya dengan wawasan dari AI melalui Large Language Model (LLM) IBM Granite untuk menerjemahkan data menjadi rekomendasi kebijakan yang solid.
+Banjir merupakan salah satu bencana hidrometeorologi yang secara konsisten melanda DKI Jakarta hampir setiap tahun dan telah menjadi isu krusial yang berdampak luas terhadap berbagai sektor kehidupan. Proyek ini bertujuan untuk menganalisis data historis kejadian banjir di DKI Jakarta dari periode 2008 hingga 2025 untuk mengidentifikasi pola dan tren utama bencana banjir (kapan dan di mana), menyajikan wawasan (insight) yang mendalam, dan memberikan rekomendasi strategis yang konkret dan bisa ditindaklanjuti (actionable) kepada Pemerintah Provinsi DKI Jakarta. 
+Pendekatan proyek ini adalah analisis kuantitatif menggunakan Python (Pandas, Matplotlib, Seaborn) dan diperkaya dengan wawasan dari AI melalui Large Language Model (LLM) IBM Granite untuk menerjemahkan data menjadi rekomendasi kebijakan yang solid.
 
 **Raw Dataset**
 
