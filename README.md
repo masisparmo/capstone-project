@@ -40,3 +40,5 @@ Sintesis Informasi: Merangkai data kuantitatif menjadi narasi analisis yang logi
 Hipotesis Penyebab: Membantu mengidentifikasi akar masalah yang lebih dalam berdasarkan pola data.
 
 Strukturisasi Rekomendasi: Mengklasifikasikan saran menjadi kategori jangka pendek, menengah, dan panjang, sehingga lebih mudah untuk dieksekusi oleh pemangku kebijakan. AI berfungsi sebagai jembatan antara data mentah dan kebijakan strategis yang bisa ditindaklanjuti.
+
+(laporan lengkap ada di file pdf di dalam repo ini, atau download di: [https://github.com/masisparmo/capstone-project/blob/main/Laporan%20Capstone%20Project%20-%20Hacktiv8%20-%20Data%20Batch%205%20Jun%202025.pdf] )
